@@ -9,7 +9,7 @@ function Navbar() {
                     <Link href='#' variant="h5">Authentication</Link>
                 </Grid>
                 <Grid item>
-                    <Link href='#' variant="h5">Charging Station</Link>
+                    <Link href='#' variant="h5">Charging Status</Link>
                 </Grid>
                 <Grid item>
                     <Link href='#' variant="h5">Transactions</Link>

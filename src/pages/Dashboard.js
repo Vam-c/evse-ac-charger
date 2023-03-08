@@ -7,7 +7,7 @@ export default function Dashboard() {
     return(
         <>
             <Grid mt={4} container item justifyContent='center'>
-                <Typography variant='h3' sx={{display: 'inline',margin: 'auto'}}>EV charging using AC</Typography>
+                <Typography variant='h3' sx={{display: 'inline',margin: 'auto'}}>AC Charger for EV</Typography>
             </Grid>
             <Navbar />
             <DisplayTable />
